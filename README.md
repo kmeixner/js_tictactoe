@@ -1,0 +1,1 @@
+* This is a JavaScript/JQuery Game that I wrote to demonstrate my JavaScript coding style, since all the JavaScript code I wrote at my past two jobs is proprietary and confidential.
